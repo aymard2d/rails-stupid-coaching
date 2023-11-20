@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.btn-primary {
+  text-decoration: none;
+  background-color: none;
+}
+
+.block {
+  padding-left: 14px;
+}
